@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "description": "At Qdrant, we have one goal: make metric learning more practical. This listing is in line with this purpose, and we aim at providing a concise yet useful list of awesomeness around metric learning. It is intended to be inspirational for productivity rather than serve as a full bibliography.\nIf you find it useful or like it in some other way, you may want to join our Discord server, where we are running a paper reading club on metric learning.",
+      "items": [],
+      "title": "Motivation 🤓"
+    },
+    {
+      "description": "If you want to contribute to this project, but don't know how, you may want to check out the contributing guide. It's easy! 😌",
+      "items": [],
+      "title": "Contributing 🤩"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Surveys 📖"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications 🎮"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Case Studies ✍️"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries 🧰"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools ⚒️"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Approximate Nearest Neighbors ⚡"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers 🔬"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets ℹ️"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:20.937Z",
+    "original_repository": "qdrant/awesome-metric-learning",
+    "original_repository_sha": "5045b69312c7c097a2515f6774ea3e6abd29498e",
+    "enhanced_repository": "enhansome/enhansome-metric-learning",
+    "enhanced_repository_description": null,
+    "title": "awesome-metric-learning with stars"
+  }
+}

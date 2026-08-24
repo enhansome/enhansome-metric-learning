@@ -190,7 +190,7 @@ study for newcomers.</summary>
 <summary><a href="https://github.com/UKPLab/sentence-transformers">sentence-transformers</a> - A library for 
 sentence-level embeddings. <code>NLP</code></summary>
 
-> Developed on top of the well-known [Transformers](https://github.com/huggingface/transformers) ⭐ 164,394 | 🐛 2,415 | 🌐 Python | 📅 2026-08-24 library, it provides an easy way to finetune Transformer-based models to obtain sequence-level embeddings.
+> Developed on top of the well-known [Transformers](https://github.com/huggingface/transformers) ⭐ 164,402 | 🐛 2,396 | 🌐 Python | 📅 2026-08-24 library, it provides an easy way to finetune Transformer-based models to obtain sequence-level embeddings.
 
 </details>
 

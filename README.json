@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T03:21:08.387Z",
-    "original_repository": "qdrant/awesome-metric-learning",
-    "original_repository_id": 444042096,
+    "last_updated": "2026-08-27T11:51:33.796Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 444042096,
+      "language": null,
+      "last_commit": "2023-04-12T07:44:14Z",
+      "owner": "qdrant",
+      "repo": "awesome-metric-learning",
+      "stars": 524
+    },
     "original_repository_sha": "5045b69312c7c097a2515f6774ea3e6abd29498e",
     "enhanced_repository": "enhansome/enhansome-metric-learning",
     "enhanced_repository_description": null,

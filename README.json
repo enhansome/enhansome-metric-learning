@@ -1,15 +1,29 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T06:09:43.660Z",
+    "last_updated": "2026-08-29T03:43:58.390Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of awesome practical Metric Learning and its applications",
+      "homepage": "https://qdrant.tech",
       "id": 444042096,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-04-12T07:44:14Z",
+      "open_issues": 1,
       "owner": "qdrant",
       "repo": "awesome-metric-learning",
-      "stars": 524
+      "stars": 524,
+      "topics": [
+        "anomaly-detection",
+        "awesome-list",
+        "metric-learning",
+        "recommendation-system",
+        "semantic-similarity",
+        "similarity-search",
+        "survey",
+        "tutorials"
+      ]
     },
     "original_repository_sha": "5045b69312c7c097a2515f6774ea3e6abd29498e",
     "enhanced_repository": "enhansome/enhansome-metric-learning",

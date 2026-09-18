@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-17T00:35:47.657Z",
+    "last_updated": "2026-09-18T00:24:06.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome practical Metric Learning and its applications",
@@ -13,7 +13,7 @@
       "open_issues": 1,
       "owner": "qdrant",
       "repo": "awesome-metric-learning",
-      "stars": 524,
+      "stars": 525,
       "topics": [
         "anomaly-detection",
         "awesome-list",

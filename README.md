@@ -190,7 +190,7 @@ study for newcomers.</summary>
 <summary><a href="https://github.com/UKPLab/sentence-transformers">sentence-transformers</a> - A library for 
 sentence-level embeddings. <code>NLP</code></summary>
 
-> Developed on top of the well-known [Transformers](https://github.com/huggingface/transformers) ⭐ 168,753 | 🐛 1,074 | 🌐 Python | 📅 2026-11-11 library, it provides an easy way to finetune Transformer-based models to obtain sequence-level embeddings.
+> Developed on top of the well-known [Transformers](https://github.com/huggingface/transformers) ⭐ 168,882 | 🐛 1,080 | 🌐 Python | 📅 2026-11-12 library, it provides an easy way to finetune Transformer-based models to obtain sequence-level embeddings.
 
 </details>
 
@@ -445,7 +445,7 @@ serving as a useful benchmark. <code>NLP</code></summary>
 <details>
 <summary><a href="https://cvgl.stanford.edu/projects/lifted_struct/">The Stanford Online Products dataset</a> - dataset has 22,634 classes with 120,053 product images. <code>CV</code></summary>
 
-> The dataset is published along with ["Deep Metric Learning via Lifted Structured Feature Embedding"](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16) ⭐ 347 | 🐛 4 | 🌐 MATLAB | 📅 2019-09-15 paper.
+> The dataset is published along with ["Deep Metric Learning via Lifted Structured Feature Embedding"](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16) ⭐ 346 | 🐛 4 | 🌐 MATLAB | 📅 2019-09-15 paper.
 
 </details>
 
@@ -458,4 +458,4 @@ serving as a useful benchmark. <code>NLP</code></summary>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
